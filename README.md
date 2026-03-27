@@ -9,7 +9,7 @@ This project is a computer vision application that utilizes MediaPipe and Stream
 To ensure compatibility and avoid library conflicts, it is recommended to use a virtual environment via Anaconda.
 
 ### Step 1: Create and Activate Virtual Environment
-1. Open Anaconda Prompt from your Windows Start menu.
+1. Open Anaconda Prompt from your Windows Start menu. This is the link in case you don't have anaconda: https://www.anaconda.com/download
 2. Create a new environment with Python 3.10:
    ```bash
    conda create -n handges_env python=3.10
